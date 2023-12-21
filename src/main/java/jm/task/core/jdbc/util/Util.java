@@ -6,7 +6,6 @@ import java.sql.SQLException;
 
 public class Util {
     // реализуйте настройку соеденения с БД
-    private static final String DB_DRIVER = "com.mysql.jdbc.Driver";
     private static final String DB_URL = "jdbc:mysql://localhost:3306/dbtest";
     private static final String DB_USERNAME = "root";
     private static final String DB_PASSWORD = "root";
